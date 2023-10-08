@@ -1,12 +1,18 @@
 # Olearis Flutter test
 
+## Goals
+
+Before proceeding to the technical interview, we would like to check you skills as Flutter engineer by providing you with this test task.
+Your main goal is to create an app consisting of two screens described below. We expect this app to behave as close as possible to the [demo](https://github.com/ky1vstar/flutter_test/assets/23170237/9cd807f8-3031-49ca-ab9a-9e311ce053c6) video.
+Your second goal is to implement the app architecture as it was real project from scratch. You should consider using some architectural patterns (like DDD), state management (like BLoC), localization, etc.
+
 ## Sign In screen
 
 1. Create simple sign in form consisting of [logo](resources/logo.svg), login text field, password text field and `Continue` button.
 2. Logo should be placed at the top of the screen, `Continue` button at the bottom and text fields should be groupped in the middle.
 3. You should handle both portrait and landscape orientations and keyboard appearence making the content scrollable.
 4. `Continue` button should have simple validation of non-empty inputs.
-5. Try to replicate behaviour shown in result video as close as possible.
+5. Try to replicate behaviour shown in [result video](https://github.com/ky1vstar/flutter_test/assets/23170237/9cd807f8-3031-49ca-ab9a-9e311ce053c6) as close as possible.
 
 <img src="https://github.com/ky1vstar/flutter_test/assets/23170237/0283a88c-e425-4f16-9fed-4f1bd8239a8d" width="250">
 <img src="https://github.com/ky1vstar/flutter_test/assets/23170237/d26faa06-5302-45ba-a997-034311d19cf6" height="250">
@@ -31,7 +37,8 @@
 <img src="https://github.com/ky1vstar/flutter_test/assets/23170237/c800e05c-0240-4be1-a74a-23b9072f6f14)" width="250">
 
 
-7. Try to replicate behaviour shown in result video as close as possible.
+7. Both portrait and landscape orientations should be handled
+8. Try to replicate behaviour shown in [result video](https://github.com/ky1vstar/flutter_test/assets/23170237/9cd807f8-3031-49ca-ab9a-9e311ce053c6) as close as possible.
 
 ## Result
 
